@@ -1,5 +1,5 @@
-# 仓库已关闭。
-
+# 仓库已连接。
+[![.github/workflows/Auto-Sync.yml](https://github.com/Tangsan99999/tv/actions/workflows/Auto-Sync.yml/badge.svg)](https://gitee.com/tangsan99999/cat)  
 ```json
 {"key":"唐人街","name":"唐人街(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Renjie.json"},
 {"key":"Gimy","name":"Gimy(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Gimy.json"},
